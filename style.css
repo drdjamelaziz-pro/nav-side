@@ -169,11 +169,11 @@ nav a:hover{
 
       background-color: #222;
       height: auto;
-      z-index: 1000;
+      z-index: 2000;
     }
 
     .links-container.navbar-open a {
-      min-height: 45px;
+      min-height: 70px;
       padding: 12px 20px;
     }
 
